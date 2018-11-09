@@ -5,6 +5,6 @@ namespace :greeting do
   end
   desc 'outputs hola to the terminal'
   task :hola do 
-    'hold de Rake!'
+    'hola de Rake!'
   end
 end
