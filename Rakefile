@@ -10,4 +10,5 @@ namespace :greeting do
 end
 
 namespace :db do
+  desc
 end
